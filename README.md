@@ -41,5 +41,5 @@ ESP32具有512个字节的EEPROM可以用来永久保存数据。我们用其中
 
 ## 附图
 1) 5米周长19毫米直径的铝管，上乘质量的小空气可变电容可以支持最大20W功率发射的小环天线![](https://raw.githubusercontent.com/justsoft/MLA-Tuner/main/5m-avc.jpg)
-2) 4米周长19毫米直径的铜管，真空可变电容和3D打印的安装支架及减少齿轮![](https://raw.githubusercontent.com/justsoft/MLA-Tuner/main/4m-vvc.jpg)
+2) 4米周长19毫米直径的铜管，真空可变电容和3D打印的安装支架及减速齿轮![](https://raw.githubusercontent.com/justsoft/MLA-Tuner/main/4m-vvc.jpg)
 3) 窗外工作中的4米周长小环，实现与5KL远程小功率通联![](https://raw.githubusercontent.com/justsoft/MLA-Tuner/main/4m-vvc-on-air.jpg)
